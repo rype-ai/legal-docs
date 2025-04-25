@@ -1,4 +1,4 @@
-# Rype App - Data Deletion Instructions
+# Rype AI, Inc - Data Deletion Instructions
 
 If you wish to delete your data associated with the Rype app, please follow these steps:
 
