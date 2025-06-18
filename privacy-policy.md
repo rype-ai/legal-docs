@@ -1,4 +1,4 @@
-# Rype AI, Inc.  
+# Rype AI, Inc - Privacy Policy.  
 ## Privacy Policy  
 **Effective Date:** June 17, 2025
 
