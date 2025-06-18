@@ -1,75 +1,49 @@
-**Privacy Policy**
+# Rype AI, Inc.  
+## Privacy Policy  
+**Effective Date:** June 17, 2025
 
-This privacy policy is applicable to the Rype app (hereinafter referred to as "Application") for mobile devices, which was developed by Rype AI, Inc (hereinafter referred to as "Service Provider") as a a Commercial service. This service is provided "AS IS".
+Rype AI, Inc. ("Rype", "we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our website, mobile app, and related services ("Service").
 
-**What information does the Application obtain and how is it used?**  
-**User Provided Information**
+---
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+### 1. Information We Collect:
+- Name and email address  
+- Dietary preferences  
+- Subscription and billing data  
+- Order history  
+- Location data  
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+### 2. How We Use Your Information
+We use your information to:
+- Provide personalized meal plans and grocery lists  
+- Process subscription payments  
+- Improve our services  
+- Send marketing communications (opt-out available)  
 
-**Automatically Collected Information**
+### 3. Third-Party Services  
+We use third-party services for grocery order fulfillment, payment processing, analytics, and email marketing. These providers may collect data subject to their own privacy policies.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+### 4. Cookies and Tracking  
+Rype does not currently use tracking tools such as cookies, pixels, or analytics tags, but may implement them in the future to improve the Service. This may include tools like Google Analytics or similar technologies, which would be subject to applicable privacy regulations and provide opt-out options where required.
 
-**Does the Application collect precise real time location information of the device?**
+### 5. No Sale of Personal Data  
+We do not sell or share your personal data for marketing purposes.
 
-This Application does not gather precise information about the location of your mobile device.
+### 6. User Content and Uploaded Recipes  
+Rype allows users to upload and store their favorite recipes from various sources, including screenshots, URLs, social media posts, and cookbook images. Users are solely responsible for ensuring they have the rights to upload this content and that it does not violate the intellectual property or privacy rights of others. Rype does not review, endorse, or guarantee the accuracy or legality of user-submitted content.
 
-This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+### 7. Children’s Privacy  
+Our services are not intended for children under 13. We do not knowingly collect data from children under 13.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+### 8. Your Rights  
+Residents of California and the EEA may have specific privacy rights. If applicable, you may request access, correction, or deletion of your data.
 
-**Do third parties see and/or have access to information obtained by the Application?**
+### 9. Data Security  
+We implement security measures to protect your data. However, no system is 100% secure.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+### 10. Changes to This Policy  
+We may update this Privacy Policy from time to time. We will notify you of significant changes.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+---
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
-*   [Expo](https://expo.io/privacy)
-*   [Sentry](https://sentry.io/privacy/)
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-**What are my opt-out rights?**
-
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-**Data Retention Policy, Managing Your Information**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at trevanreeser41@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (trevanreeser41@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2025-04-25
-
-**Your Consent**
-
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
-
-**Contact us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at trevanreeser41@gmail.com.
+**Contact us at:** [feedback@rypeai.com](mailto:feedback@rypeai.com)
