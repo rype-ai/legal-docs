@@ -1,5 +1,4 @@
-# Terms of Use  
-## Terms of Use
+# Terms of Use
 
 Welcome to Rype! These Terms of Use (the "Terms") govern your use of our website, mobile applications, and related services (collectively, the "Service") operated by Rype AI, Inc., a Delaware corporation ("Rype", "we", "our", or "us").
 
