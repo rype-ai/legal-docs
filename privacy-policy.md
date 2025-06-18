@@ -1,5 +1,4 @@
 # Privacy Policy
-## Privacy Policy  
 **Effective Date:** June 17, 2025
 
 Rype AI, Inc. ("Rype", "we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our website, mobile app, and related services ("Service").
